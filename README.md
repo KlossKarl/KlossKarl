@@ -1,89 +1,8 @@
 <div align="center">
 
-<!-- Animated Space Invaders header -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=KlossKarl;Building+things+that+shouldn't+exist+yet." alt="Typing SVG" />
 
-<!-- Space invader divider -->
-```
-▀▄▀▄▀▄  ▄▀▄▀▄▀  ▀▄▀▄▀▄  ▄▀▄▀▄▀  ▀▄▀▄▀▄  ▄▀▄▀▄▀
-```
-
-</div>
-
-<div align="center">
-
-<!-- Animated pixel invaders using pure CSS/SVG -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-  <style>
-    .invader { animation: march 0.8s steps(2) infinite; }
-    .invader:nth-child(2) { animation-delay: 0.4s; }
-    .invader:nth-child(3) { animation-delay: 0.2s; }
-    .invader:nth-child(4) { animation-delay: 0.6s; }
-    .invader:nth-child(5) { animation-delay: 0.1s; }
-    @keyframes march {
-      0% { transform: translateY(0px); }
-      50% { transform: translateY(4px); }
-      100% { transform: translateY(0px); }
-    }
-    .shot { animation: fire 1.2s linear infinite; opacity: 0; }
-    @keyframes fire {
-      0% { transform: translateY(60px); opacity: 1; }
-      100% { transform: translateY(-10px); opacity: 0; }
-    }
-  </style>
-  <!-- Invader 1 -->
-  <g class="invader" transform="translate(20, 10)">
-    <rect x="8" y="0" width="8" height="8" fill="#00FF41"/>
-    <rect x="4" y="8" width="16" height="8" fill="#00FF41"/>
-    <rect x="0" y="16" width="24" height="8" fill="#00FF41"/>
-    <rect x="0" y="24" width="8" height="8" fill="#00FF41"/>
-    <rect x="16" y="24" width="8" height="8" fill="#00FF41"/>
-    <rect x="8" y="16" width="4" height="8" fill="#000"/>
-    <rect x="12" y="16" width="4" height="8" fill="#000"/>
-  </g>
-  <!-- Invader 2 -->
-  <g class="invader" transform="translate(80, 10)">
-    <rect x="8" y="0" width="8" height="8" fill="#00FF41"/>
-    <rect x="4" y="8" width="16" height="8" fill="#00FF41"/>
-    <rect x="0" y="16" width="24" height="8" fill="#00FF41"/>
-    <rect x="0" y="24" width="8" height="8" fill="#00FF41"/>
-    <rect x="16" y="24" width="8" height="8" fill="#00FF41"/>
-    <rect x="8" y="16" width="4" height="8" fill="#000"/>
-    <rect x="12" y="16" width="4" height="8" fill="#000"/>
-  </g>
-  <!-- Invader 3 -->
-  <g class="invader" transform="translate(160, 10)">
-    <rect x="8" y="0" width="8" height="8" fill="#00FF41"/>
-    <rect x="4" y="8" width="16" height="8" fill="#00FF41"/>
-    <rect x="0" y="16" width="24" height="8" fill="#00FF41"/>
-    <rect x="0" y="24" width="8" height="8" fill="#00FF41"/>
-    <rect x="16" y="24" width="8" height="8" fill="#00FF41"/>
-    <rect x="8" y="16" width="4" height="8" fill="#000"/>
-    <rect x="12" y="16" width="4" height="8" fill="#000"/>
-  </g>
-  <!-- Invader 4 -->
-  <g class="invader" transform="translate(240, 10)">
-    <rect x="8" y="0" width="8" height="8" fill="#00FF41"/>
-    <rect x="4" y="8" width="16" height="8" fill="#00FF41"/>
-    <rect x="0" y="16" width="24" height="8" fill="#00FF41"/>
-    <rect x="0" y="24" width="8" height="8" fill="#00FF41"/>
-    <rect x="16" y="24" width="8" height="8" fill="#00FF41"/>
-    <rect x="8" y="16" width="4" height="8" fill="#000"/>
-    <rect x="12" y="16" width="4" height="8" fill="#000"/>
-  </g>
-  <!-- Invader 5 -->
-  <g class="invader" transform="translate(320, 10)">
-    <rect x="8" y="0" width="8" height="8" fill="#00FF41"/>
-    <rect x="4" y="8" width="16" height="8" fill="#00FF41"/>
-    <rect x="0" y="16" width="24" height="8" fill="#00FF41"/>
-    <rect x="0" y="24" width="8" height="8" fill="#00FF41"/>
-    <rect x="16" y="24" width="8" height="8" fill="#00FF41"/>
-    <rect x="8" y="16" width="4" height="8" fill="#000"/>
-    <rect x="12" y="16" width="4" height="8" fill="#000"/>
-  </g>
-  <!-- Laser shot -->
-  <rect class="shot" x="192" y="0" width="4" height="12" fill="#FF0000"/>
-</svg>
 
 </div>
 
@@ -161,18 +80,8 @@ Drop a handoff folder. Run `flux deploy`. Done.
 
 ---
 
-<!-- Snake game contribution graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KlossKarl/KlossKarl/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KlossKarl/KlossKarl/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/KlossKarl/KlossKarl/output/github-snake-dark.svg" />
-</picture>
-
----
-
 *Tampa, FL &nbsp;·&nbsp; [loom](https://github.com/KlossKarl/loom) &nbsp;·&nbsp; [flux](https://github.com/KlossKarl/flux)*
 
-<!-- visitor counter -->
 ![](https://komarev.com/ghpvc/?username=KlossKarl&color=00FF41&style=flat-square&label=VISITORS)
 
 </div>
