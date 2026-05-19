@@ -5,7 +5,7 @@
 <br/>
 
 [![loom](https://img.shields.io/badge/loom-local%20second%20brain-00FF41?style=flat-square&labelColor=000)](https://github.com/KlossKarl/loom)
-[![flux](https://img.shields.io/badge/flux-design%20→%20code-00d4ff?style=flat-square&labelColor=000)](https://github.com/KlossKarl/flux)
+[![flux](https://img.shields.io/badge/flux-design%20→%20code-00d4ff?style=flat-square&labelColor=000)](github.com/KlossKarl/claude-flux)
 [![location](https://img.shields.io/badge/Tampa%2C%20FL-%F0%9F%8C%B4-grey?style=flat-square&labelColor=000)](https://github.com/KlossKarl)
 
 </div>
