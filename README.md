@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&size=24&duration=4000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=300&lines=ex+nihilo" alt="ex nihilo." />
+<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&size=24&duration=4000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=300&lines=ex+nihilo." alt="ex nihilo." />
 
 <br/>
 
