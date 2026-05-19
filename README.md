@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### 🪡 LOOM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚡ FLUX
+## LOOM · FLUX
 
 </div>
 
