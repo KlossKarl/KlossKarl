@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- Animated pixel invaders using pure CSS/SVG -->
-<svg width="400" height="80" viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
   <style>
     .invader { animation: march 0.8s steps(2) infinite; }
     .invader:nth-child(2) { animation-delay: 0.4s; }
