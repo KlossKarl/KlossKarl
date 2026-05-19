@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Building+things+that+shouldn't+exist+yet." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&size=24&duration=4000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=300&lines=ex+nihilo" alt="ex nihilo" />
 
 <br/>
 
