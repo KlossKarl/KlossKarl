@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&size=24&duration=4000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=300&lines=ancora+imparo." alt="ancora imparo." />
+<img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&size=24&duration=3500&pause=2500&color=FFFFFF&center=true&vCenter=true&width=620&lines=When+the+lambs+is+lost+in+the+mountain%2C;he+said.+They+is+cry.;Sometime+come+the+mother.;Sometime+the+wolf." alt="McCarthy quote" />
 
 <br/>
 
