@@ -5,7 +5,6 @@
 <br/>
 
 [![loom](https://img.shields.io/badge/loom-local%20second%20brain-00FF41?style=flat-square&labelColor=000)](https://github.com/KlossKarl/loom)
-[![flux](https://img.shields.io/badge/flux-design%20→%20code-00d4ff?style=flat-square&labelColor=000)](github.com/KlossKarl/claude-flux)
 
 </div>
 
@@ -13,7 +12,7 @@
 
 <div align="center">
 
-## LOOM · FLUX
+## LOOM 
 
 </div>
 
@@ -29,20 +28,7 @@ Your vault. Your machine. No cloud, no subscription, no vendor that gets acquire
 ![License](https://img.shields.io/github/license/KlossKarl/loom?style=flat-square&color=00FF41&labelColor=000)
 
 </td>
-<td width="50%" valign="top">
 
-**[flux](https://github.com/KlossKarl/flux)** — design → code pipeline
-
-Drop a handoff folder. Run `flux deploy`. Claude Code implements, commits, and pushes. The bridge Anthropic said they'd build.
-
-```bash
-npx claude-flux deploy
-```
-
-![npm](https://img.shields.io/npm/v/claude-flux?style=flat-square&color=00d4ff&labelColor=000)
-![Stars](https://img.shields.io/github/stars/KlossKarl/flux?style=flat-square&color=00d4ff&labelColor=000)
-
-</td>
 </tr>
 </table>
 
